@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: "Assessing Cybersecurity Awareness and Online Safety Practices Among High School and University Students in Burkina Faso"
+message: "If you use this research in your work, please cite it using the metadata below."
+type: report
+
+authors:
+  - family-names: "SANOGO"
+    given-names: "Tiemze Aboubakar Josaphat"
+
+affiliation: "National Scientific High School of Bobo-Dioulasso"
+
+abstract: >
+  This research investigates cybersecurity awareness and online safety
+  practices among high school and university students in Burkina Faso.
+  Using a quantitative survey, the study evaluates students' knowledge
+  of common cyber threats, online safety behaviors, and digital security
+  practices while providing recommendations for strengthening
+  cybersecurity education.
+
+keywords:
+  - Cybersecurity
+  - Cybersecurity Awareness
+  - Online Safety
+  - Digital Literacy
+  - Students
+  - Burkina Faso
+  - Phishing
+  - Malware
+  - Social Engineering
+  - Education
+
+license: "CC-BY-4.0"
+
+date-released: 2026-07
+
+version: "1.0.0"
+
+repository-code: "https://github.com/YOUR_USERNAME/cybersecurity-awareness-burkina-faso"
+
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "SANOGO"
+      given-names: "Tiemze Aboubakar Josaphat"
+  title: "Assessing Cybersecurity Awareness and Online Safety Practices Among High School and University Students in Burkina Faso"
+  institution: "National Scientific High School of Bobo-Dioulasso"
+  year: 2026
