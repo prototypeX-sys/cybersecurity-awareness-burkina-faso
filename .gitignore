@@ -1,0 +1,34 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# PDF build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.synctex.gz
+*.toc
